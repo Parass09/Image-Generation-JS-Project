@@ -37,7 +37,7 @@ form button{
     padding: 0 40px;
     height: 100%;
     background: #415969;
-    color: #fff;
+    color: black;
     font-size: 18px;
     border: 0;
     outline: 0;
@@ -47,12 +47,12 @@ form button{
 }
 
 ::placeholder{
-    color: black;
+    color: white;
     font-size: 18px;
 }
 #show-more-btn{
     background: #ff3929;
-    columns: #fff;
+    columns: white;
     border: 0;
     outline: 0;
     padding: 10px 20px;
