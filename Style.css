@@ -47,11 +47,11 @@ form button{
 }
 
 ::placeholder{
-    color: white;
+    color: black;
     font-size: 18px;
 }
 #show-more-btn{
-    background: #ff3929;
+    background: #415969;
     columns: white;
     border: 0;
     outline: 0;
