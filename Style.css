@@ -6,7 +6,7 @@
 }
 body{
     background: linear-gradient(90deg, #b48787, #679792, #bf9090, #679792);
-    color: black;
+    color: white;
 }
 h1{
     text-align: center;
@@ -18,7 +18,7 @@ form{
     max-width: 600px;
     margin: auto;
     height: 80px;
-    background: #fff;
+    background: black;
     display: flex;
     align-items: center;
     border-radius: 8px;
@@ -37,7 +37,7 @@ form button{
     padding: 0 40px;
     height: 100%;
     background: #415969;
-    color: black;
+    color: white;
     font-size: 18px;
     border: 0;
     outline: 0;
@@ -47,7 +47,7 @@ form button{
 }
 
 ::placeholder{
-    color: black;
+    color: White;
     font-size: 18px;
 }
 #show-more-btn{
