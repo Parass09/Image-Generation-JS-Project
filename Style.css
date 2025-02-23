@@ -21,7 +21,7 @@ form{
     background: black;
     display: flex;
     align-items: center;
-    border-radius: 8px;
+    border-radius: 9px;
 }
 form input{
     flex: 1;
